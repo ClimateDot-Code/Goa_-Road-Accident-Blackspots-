@@ -1,0 +1,2299 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82679986621687,
+          15.498292940225259
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "district": "North",
+        "police_station": "Panaji PS/TC Panaji",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Divja Circle Panaji",
+        "start_from": "Divja Circle Panaji",
+        "end_to": "Heera Petrol Pump",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 30,
+        "fatal_accidents_3yr": 0,
+        "killed_3yr": 0,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 1,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 2,
+        "minor_accidents_3yr": 27,
+        "severity_score": 5,
+        "fatality_rate_pct": 0.0,
+        "long_term_measures": "Rumbler strips provided; sign boards installed",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 9.4,
+        "line_length_m": 256.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82777523259423,
+          15.495762591693286
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "district": "North",
+        "police_station": "Panaji PS/TC Panaji",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "secondary",
+        "location_name": "KTC Bus Stand Panaji",
+        "start_from": "KTC Bus Stand",
+        "end_to": "Old Session Court Building",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 38,
+        "fatal_accidents_3yr": 1,
+        "killed_3yr": 1,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 2,
+        "minor_accidents_3yr": 34,
+        "severity_score": 13,
+        "fatality_rate_pct": 2.6,
+        "long_term_measures": "Rumbler strips provided; sign boards installed",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 72.1,
+        "line_length_m": 292.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82025209253938,
+          15.48201443398112
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "district": "North",
+        "police_station": "Panaji PS/TC Panaji",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "tertiary",
+        "location_name": "Campal Panaji",
+        "start_from": "Bal Ganesh Campal",
+        "end_to": "Directorate of Health Centre",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 54,
+        "fatal_accidents_3yr": 1,
+        "killed_3yr": 1,
+        "grievous_accidents_3yr": 5,
+        "grievous_injuries_3yr": 6,
+        "slight_accidents_3yr": 3,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 45,
+        "severity_score": 26,
+        "fatality_rate_pct": 1.9,
+        "long_term_measures": "VUP constructed; service roads and junction constructed. Completed February 2021",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 48.5,
+        "line_length_m": 499.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87749843811481,
+          15.500357268519439
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "district": "North",
+        "police_station": "Old Goa PS/TC Panaji",
+        "road_type": "NH",
+        "road_ref": "748",
+        "road_hw_class": "primary",
+        "location_name": "Sai Baba Temple Kadamba Bypass Ribander",
+        "start_from": "Near IRB Camp Kadamba bypass road",
+        "end_to": "Gera School Kadamba bypass Road",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 70,
+        "fatal_accidents_3yr": 5,
+        "killed_3yr": 5,
+        "grievous_accidents_3yr": 4,
+        "grievous_injuries_3yr": 6,
+        "slight_accidents_3yr": 1,
+        "slight_injuries_3yr": 2,
+        "minor_accidents_3yr": 60,
+        "severity_score": 45,
+        "fatality_rate_pct": 7.1,
+        "long_term_measures": "Road marking provided; sign boards to be installed",
+        "remediation_status": "Partially complete",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 224.4,
+        "line_length_m": 420.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.86391893670134,
+          15.505575087281473
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "district": "North",
+        "police_station": "Old Goa PS/TC Panaji",
+        "road_type": "NH",
+        "road_ref": "748",
+        "road_hw_class": "primary",
+        "location_name": "Near Merces Circle Junction",
+        "start_from": "Small Manas near petrol pump",
+        "end_to": "Near Niyaz Hotel",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 68,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 1,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 62,
+        "severity_score": 21,
+        "fatality_rate_pct": 4.4,
+        "long_term_measures": "Delineators provided for entire stretch",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 338.1,
+        "line_length_m": 494.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83318317742125,
+          15.458375907662129
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "district": "North",
+        "police_station": "Old Goa PS/TC Panaji",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Shell Top Hotel St Cruz",
+        "start_from": "Cafe Coffee Day Bambolim",
+        "end_to": "Niyaz Hotel",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 42,
+        "fatal_accidents_3yr": 4,
+        "killed_3yr": 4,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 1,
+        "slight_injuries_3yr": 4,
+        "minor_accidents_3yr": 36,
+        "severity_score": 30,
+        "fatality_rate_pct": 9.5,
+        "long_term_measures": "Four lane carriageway with VUP and service road provided. Completed",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 498.3,
+        "line_length_m": 499.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83726133669661,
+          15.45585721724166
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "district": "North",
+        "police_station": "Agacaim PS/TC Panaji",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Goa Velha Bypass road",
+        "start_from": "Agacaim Bypass Road",
+        "end_to": "Goa Velha ByPass Road",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 43,
+        "fatal_accidents_3yr": 6,
+        "killed_3yr": 6,
+        "grievous_accidents_3yr": 3,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 2,
+        "minor_accidents_3yr": 32,
+        "severity_score": 41,
+        "fatality_rate_pct": 14.0,
+        "long_term_measures": "Completed March 2022",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 706.5,
+        "line_length_m": 474.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82257189382948,
+          15.459417391889597
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "district": "North",
+        "police_station": "Agacaim PS/TC Panaji",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Gomeco Colony Bambolim",
+        "start_from": "Siridao Flyover",
+        "end_to": "ISPW Bambolim",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 31,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 0,
+        "grievous_injuries_3yr": 0,
+        "slight_accidents_3yr": 1,
+        "slight_injuries_3yr": 1,
+        "minor_accidents_3yr": 27,
+        "severity_score": 16,
+        "fatality_rate_pct": 9.7,
+        "long_term_measures": "Work of Elevated Corridor in progress",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 387.2,
+        "line_length_m": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83351293745672,
+          15.457873054255257
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "district": "North",
+        "police_station": "Agacaim PS/TC Panaji",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Nursing Institute Bambolim",
+        "start_from": "Holly Cross Bambolim",
+        "end_to": "CBI Office",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 27,
+        "fatal_accidents_3yr": 5,
+        "killed_3yr": 5,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 1,
+        "slight_accidents_3yr": 1,
+        "slight_injuries_3yr": 1,
+        "minor_accidents_3yr": 20,
+        "severity_score": 29,
+        "fatality_rate_pct": 18.5,
+        "long_term_measures": "Work of Elevated Corridor in progress",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 283.0,
+        "line_length_m": 458.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8364552593709,
+          15.456338112366291
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "district": "North",
+        "police_station": "Agacaim PS/TC Panaji",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Near Athletic Stadium Bambolim",
+        "start_from": "Military Bambolim",
+        "end_to": "GMC Bambolim",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 39,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 7,
+        "grievous_injuries_3yr": 7,
+        "slight_accidents_3yr": 1,
+        "slight_injuries_3yr": 1,
+        "minor_accidents_3yr": 28,
+        "severity_score": 37,
+        "fatality_rate_pct": 7.7,
+        "long_term_measures": "Work of Elevated Corridor in progress",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 681.3,
+        "line_length_m": 268.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82756879042623,
+          15.538012836679554
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "district": "North",
+        "police_station": "Porvorim PS/TC Porvorim",
+        "road_type": "OR",
+        "road_ref": "",
+        "road_hw_class": "residential",
+        "location_name": "Chougum Road Porvorim",
+        "start_from": "O'Coqueiro Junction",
+        "end_to": "Amreshwar Temple Pilerne",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 77,
+        "fatal_accidents_3yr": 1,
+        "killed_3yr": 1,
+        "grievous_accidents_3yr": 3,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 2,
+        "minor_accidents_3yr": 71,
+        "severity_score": 16,
+        "fatality_rate_pct": 1.3,
+        "long_term_measures": "Road widened; hotmix provided",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 5.6,
+        "line_length_m": 152.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81942488136077,
+          15.541115449207705
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "district": "North",
+        "police_station": "Porvorim PS/TC Porvorim",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "primary",
+        "location_name": "Wadakade Porvorim",
+        "start_from": "O'Coqueiro Junction",
+        "end_to": "Wadakade Porvorim",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 84,
+        "fatal_accidents_3yr": 4,
+        "killed_3yr": 4,
+        "grievous_accidents_3yr": 5,
+        "grievous_injuries_3yr": 5,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 2,
+        "minor_accidents_3yr": 73,
+        "severity_score": 37,
+        "fatality_rate_pct": 4.8,
+        "long_term_measures": "Four laning with divided carriageway and VUP constructed. Completed January 2020",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 41.3,
+        "line_length_m": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81800087906717,
+          15.548666955575545
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "district": "North",
+        "police_station": "Porvorim PS/TC Porvorim",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "trunk",
+        "location_name": "Delfinos Porvorim",
+        "start_from": "Hero Circle Porvorim",
+        "end_to": "Mall de Goa Porvorim",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 56,
+        "fatal_accidents_3yr": 8,
+        "killed_3yr": 10,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 1,
+        "slight_injuries_3yr": 2,
+        "minor_accidents_3yr": 45,
+        "severity_score": 61,
+        "fatality_rate_pct": 17.9,
+        "long_term_measures": "Divider proposed; no parking zone on both sides proposed; sanction awaited; work to be taken by GTDC",
+        "remediation_status": "Proposed/Awaiting sanction",
+        "remediation_status_group": "Proposed/Planned",
+        "snap_dist_m": 85.0,
+        "line_length_m": 179.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81641580044152,
+          15.554068557462848
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "district": "North",
+        "police_station": "Porvorim PS/TC Porvorim",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "trunk",
+        "location_name": "Old Porvorim Bazar",
+        "start_from": "Damian De Goa",
+        "end_to": "Tiklo Petrol Pump End",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 74,
+        "fatal_accidents_3yr": 4,
+        "killed_3yr": 4,
+        "grievous_accidents_3yr": 3,
+        "grievous_injuries_3yr": 4,
+        "slight_accidents_3yr": 3,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 64,
+        "severity_score": 35,
+        "fatality_rate_pct": 5.4,
+        "long_term_measures": "Road widened; rotary, medians, thermoplastic paint, kerb stone, speed breakers, street light provided",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 209.8,
+        "line_length_m": 499.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.75755293541941,
+          15.543973843982775
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "district": "North",
+        "police_station": "Calangute PS/TC Calangute",
+        "road_type": "OR",
+        "road_ref": "",
+        "road_hw_class": "residential",
+        "location_name": "Dolphin Circle Calangute",
+        "start_from": "Dolphine Circle",
+        "end_to": "St. Alex church Calangute",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 14,
+        "fatal_accidents_3yr": 5,
+        "killed_3yr": 5,
+        "grievous_accidents_3yr": 0,
+        "grievous_injuries_3yr": 0,
+        "slight_accidents_3yr": 0,
+        "slight_injuries_3yr": 1,
+        "minor_accidents_3yr": 9,
+        "severity_score": 26,
+        "fatality_rate_pct": 35.7,
+        "long_term_measures": "Road widened; rotary, medians, thermoplastic paint, kerb stone, speed breakers, street light. Completed January 2020",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 171.1,
+        "line_length_m": 250.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.75484248925676,
+          15.547051258355095
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "district": "North",
+        "police_station": "Calangute PS/TC Calangute",
+        "road_type": "OR",
+        "road_ref": "",
+        "road_hw_class": "unclassified",
+        "location_name": "Prabhuwado Calangute",
+        "start_from": "Calangute Police Station",
+        "end_to": "Agarwado Calangute",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 14,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 1,
+        "slight_accidents_3yr": 0,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 10,
+        "severity_score": 21,
+        "fatality_rate_pct": 21.4,
+        "long_term_measures": "Road widened; rotary, medians, thermoplastic paint, kerb stone, speed breakers, street light. Completed January 2020",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 312.6,
+        "line_length_m": 249.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.78378015998784,
+          15.539124437157064
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "district": "North",
+        "police_station": "Saligao PS/TC Calangute",
+        "road_type": "OR",
+        "road_ref": "",
+        "road_hw_class": "residential",
+        "location_name": "Near Ardee School Sangolda",
+        "start_from": "Surya Sangolda Junction",
+        "end_to": "Sangolda Junction",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 15,
+        "fatal_accidents_3yr": 2,
+        "killed_3yr": 2,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 10,
+        "severity_score": 19,
+        "fatality_rate_pct": 13.3,
+        "long_term_measures": "Speed breakers installed to regulate vehicular traffic",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 569.6,
+        "line_length_m": 157.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.78944125428251,
+          15.52313570173928
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "district": "North",
+        "police_station": "Saligao PS/TC Calangute",
+        "road_type": "OR",
+        "road_ref": "",
+        "road_hw_class": "secondary",
+        "location_name": "Saligao Parra Road",
+        "start_from": "Grand Morod Junction",
+        "end_to": "Horticulture Store",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 17,
+        "fatal_accidents_3yr": 1,
+        "killed_3yr": 1,
+        "grievous_accidents_3yr": 4,
+        "grievous_injuries_3yr": 8,
+        "slight_accidents_3yr": 3,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 9,
+        "severity_score": 32,
+        "fatality_rate_pct": 5.9,
+        "long_term_measures": "Road requires widening in hilly terrain; hill cutting required; additional land to be acquired",
+        "remediation_status": "Land acquisition required",
+        "remediation_status_group": "Proposed/Planned",
+        "snap_dist_m": 82.9,
+        "line_length_m": 499.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83583973651028,
+          15.601766940425494
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "district": "North",
+        "police_station": "Colvale PS/TC Mapusa",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "residential",
+        "location_name": "Binani Colvale",
+        "start_from": "Binani Colvale",
+        "end_to": "Housing Board Colvale Nr. Shri Ram Mandir",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 33,
+        "fatal_accidents_3yr": 1,
+        "killed_3yr": 1,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 1,
+        "slight_injuries_3yr": 2,
+        "minor_accidents_3yr": 29,
+        "severity_score": 13,
+        "fatality_rate_pct": 3.0,
+        "long_term_measures": "Road widened and hotmixed; realigned to MoRTH specification; improved to 4 lane. Completed November 2022",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 58.7,
+        "line_length_m": 133.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.77509747828503,
+          15.685416258100735
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "district": "North",
+        "police_station": "Pernem PS/TC Pernem",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Dhargal",
+        "start_from": "From Don Khamb",
+        "end_to": "Oxelbag",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 62,
+        "fatal_accidents_3yr": 7,
+        "killed_3yr": 7,
+        "grievous_accidents_3yr": 3,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 22,
+        "slight_injuries_3yr": 33,
+        "minor_accidents_3yr": 30,
+        "severity_score": 77,
+        "fatality_rate_pct": 11.3,
+        "long_term_measures": "Flyover with service road provided. Completed December 2022. Improved to 4 lane with divided carriageway",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 281.9,
+        "line_length_m": 499.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.77477003455536,
+          15.664816858780622
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "district": "North",
+        "police_station": "Pernem PS/TC Pernem",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Naibag",
+        "start_from": "Porascadem",
+        "end_to": "Naibag",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 24,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 9,
+        "slight_injuries_3yr": 10,
+        "minor_accidents_3yr": 11,
+        "severity_score": 31,
+        "fatality_rate_pct": 12.5,
+        "long_term_measures": "Completed",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 3.4,
+        "line_length_m": 499.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76958728631537,
+          15.660139993761561
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "district": "North",
+        "police_station": "Pernem PS/TC Pernem",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Malpem",
+        "start_from": "Malpem Slope",
+        "end_to": "Malpem Petrol Pump",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 28,
+        "fatal_accidents_3yr": 0,
+        "killed_3yr": 0,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 9,
+        "slight_injuries_3yr": 15,
+        "minor_accidents_3yr": 18,
+        "severity_score": 21,
+        "fatality_rate_pct": 0.0,
+        "long_term_measures": "Junction improvement proposed per MoRTH guidelines",
+        "remediation_status": "Proposed",
+        "remediation_status_group": "Proposed/Planned",
+        "snap_dist_m": 889.9,
+        "line_length_m": 499.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8024175516624,
+          15.702784300227288
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "district": "North",
+        "police_station": "Mopa PS/TC Pernem",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Rajwelwada Torxem",
+        "start_from": "B.E.D. College Torxem",
+        "end_to": "Konkan Kinara Restaurant Torxem",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 9,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 0,
+        "slight_injuries_3yr": 0,
+        "minor_accidents_3yr": 4,
+        "severity_score": 21,
+        "fatality_rate_pct": 33.3,
+        "long_term_measures": "Improvement and widening with hotmix under CRIF - tendered; all curves to be improved",
+        "remediation_status": "Tendered",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 269.7,
+        "line_length_m": 499.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.73167095772783,
+          15.65559433984743
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "district": "North",
+        "police_station": "Mandrem PS/TC Pernem",
+        "road_type": "OR",
+        "road_ref": "",
+        "road_hw_class": "unclassified",
+        "location_name": "Junaswada Mandrem",
+        "start_from": "Junaswada Mandrem",
+        "end_to": "Near Riva Hotel Junaswada Mandrem",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 9,
+        "fatal_accidents_3yr": 0,
+        "killed_3yr": 0,
+        "grievous_accidents_3yr": 0,
+        "grievous_injuries_3yr": 0,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 2,
+        "minor_accidents_3yr": 7,
+        "severity_score": 2,
+        "fatality_rate_pct": 0.0,
+        "long_term_measures": "Widening and hotmixing done; thermoplastic painting, cat eyes, sign boards provided",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 237.2,
+        "line_length_m": 250.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.70528506734004,
+          15.687950417997039
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "district": "North",
+        "police_station": "Mandrem PS/TC Pernem",
+        "road_type": "OR",
+        "road_ref": "",
+        "road_hw_class": "unclassified",
+        "location_name": "Arambol",
+        "start_from": "Arambol Market",
+        "end_to": "Nanu Resort Arambol",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 13,
+        "fatal_accidents_3yr": 1,
+        "killed_3yr": 1,
+        "grievous_accidents_3yr": 3,
+        "grievous_injuries_3yr": 4,
+        "slight_accidents_3yr": 3,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 6,
+        "severity_score": 20,
+        "fatality_rate_pct": 7.7,
+        "long_term_measures": "Improvement and widening with hotmix under CRIF - tendered",
+        "remediation_status": "Tendered",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 54.6,
+        "line_length_m": 499.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97194258746244,
+          15.593406999721948
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "district": "North",
+        "police_station": "Bicholim PS/TC Bicholim",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "tertiary",
+        "location_name": "Par Junction Mulgao",
+        "start_from": "Par Junction",
+        "end_to": "Shivolkarwada Rasta Mulgao",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 18,
+        "fatal_accidents_3yr": 1,
+        "killed_3yr": 1,
+        "grievous_accidents_3yr": 3,
+        "grievous_injuries_3yr": 4,
+        "slight_accidents_3yr": 7,
+        "slight_injuries_3yr": 8,
+        "minor_accidents_3yr": 7,
+        "severity_score": 25,
+        "fatality_rate_pct": 5.6,
+        "long_term_measures": "Road widened to four lane; blinkers, TBMs, signages installed",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 619.7,
+        "line_length_m": 249.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97319099394244,
+          15.579086993245873
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "district": "North",
+        "police_station": "Bicholim PS/TC Bicholim",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "primary",
+        "location_name": "Near ITI Valshi Bicholim",
+        "start_from": "Laxmi Lila Hall Valshi",
+        "end_to": "Omkar Hotel Bordem Bicholim",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 16,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 5,
+        "minor_accidents_3yr": 9,
+        "severity_score": 29,
+        "fatality_rate_pct": 18.8,
+        "long_term_measures": "Widening and hotmixing done; thermoplastic painting, cat eyes, sign boards provided",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 549.2,
+        "line_length_m": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96628352095321,
+          15.570777251442966
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "district": "North",
+        "police_station": "Bicholim PS/TC Bicholim",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "tertiary",
+        "location_name": "Gokulwadi Sankhalim",
+        "start_from": "Dattawadi Junction",
+        "end_to": "PHC Junction Sanquelim",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 12,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 3,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 4,
+        "severity_score": 24,
+        "fatality_rate_pct": 25.0,
+        "long_term_measures": "Rumbler strips; thermoplastic painting; cat eyes; precautionary signboards at Gokulwadi Virdi junction",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 497.6,
+        "line_length_m": 499.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97652572474173,
+          15.558239487240705
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "district": "North",
+        "police_station": "Bicholim PS/TC Bicholim",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "tertiary",
+        "location_name": "Near Chari Garage Harvalem",
+        "start_from": "Housing Board Sanquelim",
+        "end_to": "Supachipud Harvalem",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 15,
+        "fatal_accidents_3yr": 1,
+        "killed_3yr": 2,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 6,
+        "slight_injuries_3yr": 8,
+        "minor_accidents_3yr": 6,
+        "severity_score": 24,
+        "fatality_rate_pct": 13.3,
+        "long_term_measures": "Road widened with hotmix; bus bay constructed; thermoplastic painting, cat eyes, signboards installed",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 766.6,
+        "line_length_m": 374.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04376244662278,
+          15.626563504051484
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "district": "North",
+        "police_station": "Valpoi PS/TC Bicholim",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "tertiary",
+        "location_name": "Chorla Ghat Area",
+        "start_from": "From Jamalikad",
+        "end_to": "Wilder Nest Hotel",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 35,
+        "fatal_accidents_3yr": 4,
+        "killed_3yr": 5,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 4,
+        "slight_injuries_3yr": 18,
+        "minor_accidents_3yr": 26,
+        "severity_score": 49,
+        "fatality_rate_pct": 14.3,
+        "long_term_measures": "Crash barrier installed; thermoplastic paint and cat eyes fixed",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 195.1,
+        "line_length_m": 499.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.03046264946681,
+          15.584629466668835
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "district": "North",
+        "police_station": "Valpoi PS/TC Bicholim",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "tertiary",
+        "location_name": "Honda ITI",
+        "start_from": "From Honda ITI",
+        "end_to": "Vadakade hand Bus Stop",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 23,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 3,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 1,
+        "slight_injuries_3yr": 2,
+        "minor_accidents_3yr": 16,
+        "severity_score": 26,
+        "fatality_rate_pct": 13.0,
+        "long_term_measures": "Sign boards installed; speed breaker at ITI junction; estimate for widening under preparation",
+        "remediation_status": "Partial/In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 682.9,
+        "line_length_m": 499.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99877059694664,
+          15.405632781590526
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "district": "South",
+        "police_station": "Mardol PS/TC Ponda",
+        "road_type": "NH",
+        "road_ref": "748",
+        "road_hw_class": "trunk",
+        "location_name": "Near Cone Priol",
+        "start_from": "Cone Priol",
+        "end_to": "Farmagudi Nr. Ponda Traffic Cell",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 33,
+        "fatal_accidents_3yr": 1,
+        "killed_3yr": 1,
+        "grievous_accidents_3yr": 4,
+        "grievous_injuries_3yr": 8,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 5,
+        "minor_accidents_3yr": 26,
+        "severity_score": 34,
+        "fatality_rate_pct": 3.0,
+        "long_term_measures": "Rectification on NH 748 km 84/00 to 143/200 - awarded to Baab Constructions",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 202.1,
+        "line_length_m": 466.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00253850775621,
+          15.393399478905165
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "district": "South",
+        "police_station": "Mardol PS/TC Ponda",
+        "road_type": "NH",
+        "road_ref": "748",
+        "road_hw_class": "secondary",
+        "location_name": "BhomaPonda",
+        "start_from": "Kalimati Bhoma",
+        "end_to": "Vaishali Hotel Bhoma",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 12,
+        "fatal_accidents_3yr": 0,
+        "killed_3yr": 0,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 1,
+        "slight_injuries_3yr": 1,
+        "minor_accidents_3yr": 10,
+        "severity_score": 7,
+        "fatality_rate_pct": 0.0,
+        "long_term_measures": "Rectification on NH 748 km 84/00 to 143/200 - awarded to Baab Constructions",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 142.4,
+        "line_length_m": 499.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02621887236558,
+          15.411715915383413
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "district": "South",
+        "police_station": "Ponda PS/TC Ponda",
+        "road_type": "NH",
+        "road_ref": "566",
+        "road_hw_class": "trunk",
+        "location_name": "Near Baithakol Borim",
+        "start_from": "Near Baithakol Borim Circle",
+        "end_to": "Top Cola Borim",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 27,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 4,
+        "grievous_injuries_3yr": 4,
+        "slight_accidents_3yr": 0,
+        "slight_injuries_3yr": 4,
+        "minor_accidents_3yr": 20,
+        "severity_score": 31,
+        "fatality_rate_pct": 11.1,
+        "long_term_measures": "Rectification on NH 566 Borim Sakav km 7/250 to 7/750 - awarded to Souza Engineers",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 646.7,
+        "line_length_m": 301.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0553340694841,
+          15.406277930195948
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "district": "South",
+        "police_station": "Ponda PS/TC Ponda",
+        "road_type": "NH",
+        "road_ref": "748",
+        "road_hw_class": "secondary",
+        "location_name": "Usgao Ponda",
+        "start_from": "Near Nestle Factory Usgao",
+        "end_to": "MRF Factory Usgao",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 23,
+        "fatal_accidents_3yr": 7,
+        "killed_3yr": 7,
+        "grievous_accidents_3yr": 5,
+        "grievous_injuries_3yr": 5,
+        "slight_accidents_3yr": 0,
+        "slight_injuries_3yr": 1,
+        "minor_accidents_3yr": 11,
+        "severity_score": 51,
+        "fatality_rate_pct": 30.4,
+        "long_term_measures": "Rectification on NH 748 km 84/00 to 143/200 - awarded to Baab Constructions",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 232.0,
+        "line_length_m": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00344700372447,
+          15.403361142966041
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "district": "South",
+        "police_station": "Ponda PS/TC Ponda",
+        "road_type": "NH",
+        "road_ref": "748",
+        "road_hw_class": "secondary",
+        "location_name": "Near GVM College Ponda",
+        "start_from": "GMV Circle",
+        "end_to": "Near Old RTO Office",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 20,
+        "fatal_accidents_3yr": 2,
+        "killed_3yr": 2,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 0,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 16,
+        "severity_score": 22,
+        "fatality_rate_pct": 10.0,
+        "long_term_measures": "Rectification on NH 748 km 84/00 to 143/200 - awarded to Baab Constructions",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 79.7,
+        "line_length_m": 418.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.10320428011086,
+          15.273026079926602
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "district": "South",
+        "police_station": "Ponda PS/TC Ponda",
+        "road_type": "NH",
+        "road_ref": "748",
+        "road_hw_class": "primary",
+        "location_name": "Near Panchayat Dharbandora",
+        "start_from": "RTO Office Dharabandora",
+        "end_to": "Dabal Junction",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 19,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 4,
+        "grievous_accidents_3yr": 4,
+        "grievous_injuries_3yr": 8,
+        "slight_accidents_3yr": 0,
+        "slight_injuries_3yr": 4,
+        "minor_accidents_3yr": 12,
+        "severity_score": 48,
+        "fatality_rate_pct": 21.1,
+        "long_term_measures": "Rectification on NH 748 km 84/00 to 143/200 - awarded to Baab Constructions",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 206.4,
+        "line_length_m": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.11066287104835,
+          15.270722522662806
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "district": "South",
+        "police_station": "Ponda PS/TC Ponda",
+        "road_type": "NH",
+        "road_ref": "748",
+        "road_hw_class": "primary",
+        "location_name": "Near Dharbandora",
+        "start_from": "Pratap Nagar Dharbandora",
+        "end_to": "Patkem Dharbandora",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 10,
+        "fatal_accidents_3yr": 4,
+        "killed_3yr": 4,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 0,
+        "slight_injuries_3yr": 1,
+        "minor_accidents_3yr": 5,
+        "severity_score": 27,
+        "fatality_rate_pct": 40.0,
+        "long_term_measures": "Rectification on NH 748 km 84/00 to 143/200 - awarded to Baab Constructions",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 549.9,
+        "line_length_m": 348.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1733632299129,
+          15.266313250316475
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "district": "South",
+        "police_station": "Collem PS/TC Ponda",
+        "road_type": "NH",
+        "road_ref": "748",
+        "road_hw_class": "secondary",
+        "location_name": "Suktolim",
+        "start_from": "Palaskata",
+        "end_to": "Raj Laxmi Petrol pump",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 18,
+        "fatal_accidents_3yr": 5,
+        "killed_3yr": 5,
+        "grievous_accidents_3yr": 0,
+        "grievous_injuries_3yr": 0,
+        "slight_accidents_3yr": 4,
+        "slight_injuries_3yr": 9,
+        "minor_accidents_3yr": 9,
+        "severity_score": 34,
+        "fatality_rate_pct": 27.8,
+        "long_term_measures": "Rectification on NH 748 km 84/00 to 143/200 - awarded to Baab Constructions",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 800.4,
+        "line_length_m": 499.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00270009207397,
+          15.348898130953865
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "district": "South",
+        "police_station": "Margao PS/TC Margao",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "trunk",
+        "location_name": "Near Furtado Petrol Pump Navelim",
+        "start_from": "Near Be Happy Soda Factory Bellem",
+        "end_to": "Furtado Petrol Pump Bellem Navelim",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 16,
+        "fatal_accidents_3yr": 6,
+        "killed_3yr": 6,
+        "grievous_accidents_3yr": 0,
+        "grievous_injuries_3yr": 0,
+        "slight_accidents_3yr": 0,
+        "slight_injuries_3yr": 0,
+        "minor_accidents_3yr": 10,
+        "severity_score": 30,
+        "fatality_rate_pct": 37.5,
+        "long_term_measures": "VUP proposed from Navelim to Uskinibandh",
+        "remediation_status": "Proposed",
+        "remediation_status_group": "Proposed/Planned",
+        "snap_dist_m": 524.0,
+        "line_length_m": 283.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99304646486944,
+          15.294758141130657
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "district": "South",
+        "police_station": "Maina Curtorim PS/TC Margao",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Near Karmel College Nuvem",
+        "start_from": "Nuvem By pass Junction",
+        "end_to": "Belloy Nuvem",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 59,
+        "fatal_accidents_3yr": 4,
+        "killed_3yr": 5,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 6,
+        "slight_injuries_3yr": 19,
+        "minor_accidents_3yr": 47,
+        "severity_score": 50,
+        "fatality_rate_pct": 8.5,
+        "long_term_measures": "Improvement and widening works in progress",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 109.2,
+        "line_length_m": 499.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98658674633252,
+          15.30449029644283
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "district": "South",
+        "police_station": "Maina Curtorim PS/TC Margao",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "tertiary",
+        "location_name": "Near Livrament Chapel Arlem",
+        "start_from": "Arlem Nuvem By Pass",
+        "end_to": "Alex Sequiera House Raia",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 52,
+        "fatal_accidents_3yr": 5,
+        "killed_3yr": 5,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 4,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 6,
+        "minor_accidents_3yr": 43,
+        "severity_score": 43,
+        "fatality_rate_pct": 9.6,
+        "long_term_measures": "Roundabout diameter reduced at Arlem Junction; hotmixed; road markings, signboards and cat eyes provided",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 206.4,
+        "line_length_m": 499.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99604479730921,
+          15.293929241416306
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "district": "South",
+        "police_station": "Maina Curtorim PS/TC Margao",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Rumder Nuvem",
+        "start_from": "Gounlloy Nuvem",
+        "end_to": "Tata Showroom",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 24,
+        "fatal_accidents_3yr": 1,
+        "killed_3yr": 1,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 3,
+        "slight_injuries_3yr": 7,
+        "minor_accidents_3yr": 18,
+        "severity_score": 21,
+        "fatality_rate_pct": 4.2,
+        "long_term_measures": "Improvement and widening works in progress",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 237.0,
+        "line_length_m": 499.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97554096475967,
+          15.224555179771064
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "district": "South",
+        "police_station": "Cuncolim PS/TC Margao",
+        "road_type": "OR",
+        "road_ref": "",
+        "road_hw_class": "residential",
+        "location_name": "Assolna Area",
+        "start_from": "SP Hall Assolna",
+        "end_to": "HDFC Bank Ambelim",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 21,
+        "fatal_accidents_3yr": 2,
+        "killed_3yr": 2,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 7,
+        "slight_injuries_3yr": 9,
+        "minor_accidents_3yr": 10,
+        "severity_score": 25,
+        "fatality_rate_pct": 9.5,
+        "long_term_measures": "Straight road with no space for road improvement",
+        "remediation_status": "No scope",
+        "remediation_status_group": "No scope",
+        "snap_dist_m": 17.6,
+        "line_length_m": 362.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00468885351209,
+          15.199232225394518
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "district": "South",
+        "police_station": "Cuncolim PS/TC Margao",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "tertiary",
+        "location_name": "Cuncolim Bus Stand",
+        "start_from": "Near Bus Stand Cuncolim",
+        "end_to": "Uskini bhand Cuncolim",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 21,
+        "fatal_accidents_3yr": 2,
+        "killed_3yr": 2,
+        "grievous_accidents_3yr": 3,
+        "grievous_injuries_3yr": 4,
+        "slight_accidents_3yr": 8,
+        "slight_injuries_3yr": 11,
+        "minor_accidents_3yr": 8,
+        "severity_score": 33,
+        "fatality_rate_pct": 9.5,
+        "long_term_measures": "Land acquisition for Cuncolim bypass underway; RSA and DPR to be submitted",
+        "remediation_status": "Land acquisition",
+        "remediation_status_group": "Proposed/Planned",
+        "snap_dist_m": 63.9,
+        "line_length_m": 499.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99721419787552,
+          15.190033688415273
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "district": "South",
+        "police_station": "Cuncolim PS/TC Margao",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "trunk",
+        "location_name": "Paribhand Cuncolim",
+        "start_from": "Paribhand Cuncolim",
+        "end_to": "Velly View Restaurant",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 17,
+        "fatal_accidents_3yr": 0,
+        "killed_3yr": 0,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 2,
+        "slight_accidents_3yr": 6,
+        "slight_injuries_3yr": 6,
+        "minor_accidents_3yr": 9,
+        "severity_score": 12,
+        "fatality_rate_pct": 0.0,
+        "long_term_measures": "Land acquisition for Cuncolim bypass underway",
+        "remediation_status": "Land acquisition",
+        "remediation_status_group": "Proposed/Planned",
+        "snap_dist_m": 1055.3,
+        "line_length_m": 250.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98312316914819,
+          15.323421680387193
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "district": "South",
+        "police_station": "Fatorda PS/TC Margao",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Near Old Hospicio Hospital Margao",
+        "start_from": "Mohiddin Petrol Pump",
+        "end_to": "Holy Spirit Church Junction",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 25,
+        "fatal_accidents_3yr": 1,
+        "killed_3yr": 1,
+        "grievous_accidents_3yr": 5,
+        "grievous_injuries_3yr": 7,
+        "slight_accidents_3yr": 12,
+        "slight_injuries_3yr": 12,
+        "minor_accidents_3yr": 7,
+        "severity_score": 38,
+        "fatality_rate_pct": 4.0,
+        "long_term_measures": "No scope for geometric improvement; will be resolved after Margao Western Bypass commissioned",
+        "remediation_status": "Pending bypass",
+        "remediation_status_group": "Proposed/Planned",
+        "snap_dist_m": 157.8,
+        "line_length_m": 499.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98857562117935,
+          15.295481796016922
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "district": "South",
+        "police_station": "Fatorda PS/TC Margao",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Old Market Circle Margao",
+        "start_from": "Old Market Circle",
+        "end_to": "KTC Bus Stand Margao",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 34,
+        "fatal_accidents_3yr": 0,
+        "killed_3yr": 0,
+        "grievous_accidents_3yr": 4,
+        "grievous_injuries_3yr": 4,
+        "slight_accidents_3yr": 13,
+        "slight_injuries_3yr": 13,
+        "minor_accidents_3yr": 17,
+        "severity_score": 25,
+        "fatality_rate_pct": 0.0,
+        "long_term_measures": "Road circle improvement under MoRTH sanctioned work",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 630.6,
+        "line_length_m": 499.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02870148102782,
+          15.316119780648341
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "district": "South",
+        "police_station": "Fatorda PS/TC Margao",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "primary",
+        "location_name": "Near PWD Office Junction Fatorda",
+        "start_from": "Near PWD Office Junction Fatorda",
+        "end_to": "Arlem Circle",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 26,
+        "fatal_accidents_3yr": 0,
+        "killed_3yr": 0,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 1,
+        "slight_accidents_3yr": 14,
+        "slight_injuries_3yr": 18,
+        "minor_accidents_3yr": 11,
+        "severity_score": 21,
+        "fatality_rate_pct": 0.0,
+        "long_term_measures": "Road widened to 4 lane with central median; road markings provided",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 2319.5,
+        "line_length_m": 499.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02875538721473,
+          15.315932202071288
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "district": "South",
+        "police_station": "Fatorda PS/TC Margao",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "primary",
+        "location_name": "Near New District Hospital Davondem",
+        "start_from": "KTC Bus Davondem",
+        "end_to": "Davondem",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 37,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 6,
+        "grievous_injuries_3yr": 6,
+        "slight_accidents_3yr": 23,
+        "slight_injuries_3yr": 23,
+        "minor_accidents_3yr": 5,
+        "severity_score": 56,
+        "fatality_rate_pct": 8.1,
+        "long_term_measures": "Road improvement work carried out under MoRTH sanctioned work",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 2046.7,
+        "line_length_m": 499.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02875538721473,
+          15.315932202071288
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "district": "South",
+        "police_station": "Fatorda PS/TC Margao",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "primary",
+        "location_name": "Bolshe Circle Gogal",
+        "start_from": "Bolshe Circle Gogal",
+        "end_to": "Munjvihar Junction Gogal",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 28,
+        "fatal_accidents_3yr": 0,
+        "killed_3yr": 0,
+        "grievous_accidents_3yr": 4,
+        "grievous_injuries_3yr": 4,
+        "slight_accidents_3yr": 15,
+        "slight_injuries_3yr": 17,
+        "minor_accidents_3yr": 9,
+        "severity_score": 29,
+        "fatality_rate_pct": 0.0,
+        "long_term_measures": "Four road junction with central island; traffic signals installed and operational; road markings and signages provided",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 1702.2,
+        "line_length_m": 499.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98930168154473,
+          15.324263895650061
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "district": "South",
+        "police_station": "Fatorda PS/TC Margao",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "primary",
+        "location_name": "Near Fatorda Junction",
+        "start_from": "Ravindra Bhavan Junction",
+        "end_to": "Fatorda Junction",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 18,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 1,
+        "slight_accidents_3yr": 10,
+        "slight_injuries_3yr": 11,
+        "minor_accidents_3yr": 4,
+        "severity_score": 29,
+        "fatality_rate_pct": 16.7,
+        "long_term_measures": "Road widened to four lane with central median; bituminous concrete with thermoplastic paint",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 2160.8,
+        "line_length_m": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06617773038678,
+          15.174681789907273
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "district": "South",
+        "police_station": "Quepem PS/TC Quepem",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "secondary",
+        "location_name": "Near Church Paroda Quepem",
+        "start_from": "Church Paroda",
+        "end_to": "Parvat Road Paroda",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 11,
+        "fatal_accidents_3yr": 2,
+        "killed_3yr": 2,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 4,
+        "slight_accidents_3yr": 6,
+        "slight_injuries_3yr": 8,
+        "minor_accidents_3yr": 2,
+        "severity_score": 30,
+        "fatality_rate_pct": 18.2,
+        "long_term_measures": "Work order 31/03/2023; 100% complete - widening, thermoplastic paint, road studs, sign boards",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 1399.2,
+        "line_length_m": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.11963900613426,
+          15.24371014881172
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "district": "South",
+        "police_station": "Curchorem PS/TC Curchorem",
+        "road_type": "SH",
+        "road_ref": "",
+        "road_hw_class": "primary",
+        "location_name": "Dandem Sanvordem",
+        "start_from": "Dandem Sanvordem",
+        "end_to": "Guddemol Sanvordem",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 15,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 3,
+        "grievous_accidents_3yr": 0,
+        "grievous_injuries_3yr": 0,
+        "slight_accidents_3yr": 4,
+        "slight_injuries_3yr": 6,
+        "minor_accidents_3yr": 8,
+        "severity_score": 21,
+        "fatality_rate_pct": 20.0,
+        "long_term_measures": "Resurfacing and hotmixing tendered; will commence shortly",
+        "remediation_status": "Tendered",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 829.6,
+        "line_length_m": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87004555367675,
+          15.386225045233768
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "district": "South",
+        "police_station": "Vasco PS/TC Vasco",
+        "road_type": "NH",
+        "road_ref": "17B",
+        "road_hw_class": "trunk",
+        "location_name": "Dabolim Airport Junction",
+        "start_from": "Airport Junction",
+        "end_to": "INS Hansa",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 25,
+        "fatal_accidents_3yr": 4,
+        "killed_3yr": 5,
+        "grievous_accidents_3yr": 1,
+        "grievous_injuries_3yr": 1,
+        "slight_accidents_3yr": 3,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 17,
+        "severity_score": 31,
+        "fatality_rate_pct": 20.0,
+        "long_term_measures": "Under NHAI jurisdiction",
+        "remediation_status": "NHAI jurisdiction",
+        "remediation_status_group": "NHAI jurisdiction",
+        "snap_dist_m": 286.1,
+        "line_length_m": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87257082561098,
+          15.386437562179612
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "district": "South",
+        "police_station": "Vasco PS/TC Vasco",
+        "road_type": "NH",
+        "road_ref": "17B",
+        "road_hw_class": "trunk",
+        "location_name": "Vishal Mega Mart Dabolim",
+        "start_from": "Dabolim Bridge",
+        "end_to": "Vallis Junction",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 24,
+        "fatal_accidents_3yr": 4,
+        "killed_3yr": 4,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 3,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 15,
+        "severity_score": 32,
+        "fatality_rate_pct": 16.7,
+        "long_term_measures": "Under NHAI jurisdiction",
+        "remediation_status": "NHAI jurisdiction",
+        "remediation_status_group": "NHAI jurisdiction",
+        "snap_dist_m": 182.8,
+        "line_length_m": 500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8173155801099,
+          15.409240964949616
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "district": "South",
+        "police_station": "Vasco PS/TC Vasco",
+        "road_type": "NH",
+        "road_ref": "17A",
+        "road_hw_class": "service",
+        "location_name": "Near St. Andrew Church Vasco",
+        "start_from": "Near St. Andrew Church",
+        "end_to": "Roy Petrol Pump Tilak Maidan",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 12,
+        "fatal_accidents_3yr": 0,
+        "killed_3yr": 0,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 4,
+        "slight_injuries_3yr": 4,
+        "minor_accidents_3yr": 6,
+        "severity_score": 13,
+        "fatality_rate_pct": 0.0,
+        "long_term_measures": "Land acquisition for road widening at St. Andrew Junction on NH366 in process",
+        "remediation_status": "Land acquisition",
+        "remediation_status_group": "Proposed/Planned",
+        "snap_dist_m": 382.3,
+        "line_length_m": 498.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.79448179387447,
+          15.40793160057808
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "district": "South",
+        "police_station": "Vasco PS/TC Vasco",
+        "road_type": "NH",
+        "road_ref": "17B",
+        "road_hw_class": "primary",
+        "location_name": "Shantinagar Junction",
+        "start_from": "Ganesh Temple",
+        "end_to": "Coast Guard Shantinagar",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 14,
+        "fatal_accidents_3yr": 4,
+        "killed_3yr": 5,
+        "grievous_accidents_3yr": 3,
+        "grievous_injuries_3yr": 4,
+        "slight_accidents_3yr": 3,
+        "slight_injuries_3yr": 3,
+        "minor_accidents_3yr": 4,
+        "severity_score": 40,
+        "fatality_rate_pct": 35.7,
+        "long_term_measures": "Under NHAI jurisdiction",
+        "remediation_status": "NHAI jurisdiction",
+        "remediation_status_group": "NHAI jurisdiction",
+        "snap_dist_m": 438.5,
+        "line_length_m": 249.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.79385711151028,
+          15.414538790890267
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "district": "South",
+        "police_station": "Mormugao PS/TC Vasco",
+        "road_type": "NH",
+        "road_ref": "366",
+        "road_hw_class": "unclassified",
+        "location_name": "El-Monte Mormugao",
+        "start_from": "El-Monte",
+        "end_to": "Lower Jetty",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 18,
+        "fatal_accidents_3yr": 2,
+        "killed_3yr": 2,
+        "grievous_accidents_3yr": 3,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 9,
+        "slight_injuries_3yr": 9,
+        "minor_accidents_3yr": 4,
+        "severity_score": 28,
+        "fatality_rate_pct": 11.1,
+        "long_term_measures": "RSA and DPR under process",
+        "remediation_status": "DPR stage",
+        "remediation_status_group": "Proposed/Planned",
+        "snap_dist_m": 1053.1,
+        "line_length_m": 249.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.95565570139011,
+          15.371904390610302
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "district": "South",
+        "police_station": "Verna PS/TC Vasco",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Pirni Circle Verna",
+        "start_from": "Titan Junction",
+        "end_to": "Pirni Circle Verna",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 52,
+        "fatal_accidents_3yr": 2,
+        "killed_3yr": 2,
+        "grievous_accidents_3yr": 3,
+        "grievous_injuries_3yr": 4,
+        "slight_accidents_3yr": 0,
+        "slight_injuries_3yr": 0,
+        "minor_accidents_3yr": 47,
+        "severity_score": 22,
+        "fatality_rate_pct": 3.8,
+        "long_term_measures": "Proposal for four laning with grade separator under MoRTH; SFC cleared 04/06/2024",
+        "remediation_status": "MoRTH approval stage",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 300.7,
+        "line_length_m": 385.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.03813029128412,
+          14.991561305187934
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "district": "South",
+        "police_station": "Canacona PS/TC Canacona",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "service",
+        "location_name": "Karmal Ghat Canacona",
+        "start_from": "Near Ganapati Temple",
+        "end_to": "Nr. Forest Office Gullem",
+        "spot_type": "Accident Prone Zone",
+        "total_accidents_3yr": 31,
+        "fatal_accidents_3yr": 2,
+        "killed_3yr": 2,
+        "grievous_accidents_3yr": 2,
+        "grievous_injuries_3yr": 3,
+        "slight_accidents_3yr": 2,
+        "slight_injuries_3yr": 2,
+        "minor_accidents_3yr": 25,
+        "severity_score": 21,
+        "fatality_rate_pct": 6.5,
+        "long_term_measures": "Widening and improvement of curve completed; side shoulders and traffic safety aids provided",
+        "remediation_status": "Completed",
+        "remediation_status_group": "Completed",
+        "snap_dist_m": 458.2,
+        "line_length_m": 249.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04167183511154,
+          14.980397944872966
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "district": "South",
+        "police_station": "Canacona PS/TC Canacona",
+        "road_type": "NH",
+        "road_ref": "66",
+        "road_hw_class": "secondary",
+        "location_name": "Gullem Canacona",
+        "start_from": "From Bhumipurish Temple",
+        "end_to": "Petrol Pump Gullem",
+        "spot_type": "Black Spot",
+        "total_accidents_3yr": 29,
+        "fatal_accidents_3yr": 3,
+        "killed_3yr": 4,
+        "grievous_accidents_3yr": 5,
+        "grievous_injuries_3yr": 7,
+        "slight_accidents_3yr": 5,
+        "slight_injuries_3yr": 6,
+        "minor_accidents_3yr": 16,
+        "severity_score": 47,
+        "fatality_rate_pct": 13.8,
+        "long_term_measures": "Improvement and widening works in progress",
+        "remediation_status": "In progress",
+        "remediation_status_group": "In progress",
+        "snap_dist_m": 1274.9,
+        "line_length_m": 481.9
+      }
+    }
+  ]
+}
